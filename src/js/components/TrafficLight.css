@@ -1,0 +1,39 @@
+
+
+.Color-Red {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 34px;
+    left: 97px;
+
+}
+.btn-yellow {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 98px;
+    left: 97px;
+
+
+}
+.btn-green {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 162px;
+    left: 97px;
+
+}
+.img-semaforo {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+
+    
+
+}
